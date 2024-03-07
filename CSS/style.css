@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+}
+h1 {
+    color:darkorange;
+}
+h2 {
+    color: darkorange;
+    font-family: sans-serif;
+}
+p {
+    background-color: mistyrose;
+}
+a:hover {
+    color: darkorange;
+}
+a:active {
+    color: firebrick;
+}
+a:visited {
+    color: black;
+}
+p {
+    font-size: 20px;
+}
